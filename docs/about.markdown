@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About Daniel Öberg
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi and welcome to my musings.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a driven and dedicated data scientist and software engineer (M.Sc.) with experience from both the public and private sectors. Soft spot for fraud analytics, anti-money laundering, functional programming (especially Haskell), machine learning and compiler construction.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The present main expertise lies in Python, C++ and Swift. With a Masters in computer science I have a well-founded understanding of advanced algorithms and also practical experience in machine learning.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Perceived as a positive and responsible person with good communication skills.
