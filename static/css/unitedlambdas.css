@@ -1,0 +1,11 @@
+div#unitedlambdas-logo {
+    font-size: 24px;
+    font-family: var(--serif);
+    font-weight: 700;
+    color: var(--primary);
+}
+
+div#unitedlambdas-logo span {
+    color: var(--grey);
+}
+

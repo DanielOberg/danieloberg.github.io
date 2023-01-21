@@ -1,0 +1,19 @@
+baseURL: "https://danieloberg.github.io"
+languageCode: "en-us"
+title: "Daniel Oberg"
+pygmentsstyle: 'monokai'
+metaDataFormat: yaml
+
+# Theme settings
+# theme: novela
+theme: "hugo-theme-novela"
+paginate: 6
+social:
+  github: "#danieloberg/"
+  twitter: ""
+  instagram: ""
+  linkedin: ""
+  dribbble: ""
+  youtube: ""
+taxonomies:
+  author: authors
